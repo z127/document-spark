@@ -1,0 +1,5 @@
+# Project exclude paths
+/demo-spark-core/target/
+/input
+/output
+/.idea
